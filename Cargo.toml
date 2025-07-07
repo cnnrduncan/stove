@@ -9,7 +9,7 @@ version = "0.13.2"
 edition = "2021"
 
 [dependencies]
-unreal_asset = { git = "https://github.com/astrotechies/unrealmodding", rev = "84e60cc" }
+unreal_asset = { git = "https://github.com/cnnrduncan/unrealmodding/", branch = "5.3_test" }
 byteorder = "1.5"
 bitflags = "2.4"
 texture2ddecoder = "0.0"
