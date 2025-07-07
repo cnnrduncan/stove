@@ -265,7 +265,7 @@ fn main() -> AppExit {
 
 use unreal_asset::engine_version::EngineVersion::*;
 
-const VERSIONS: [(unreal_asset::engine_version::EngineVersion, &str); 33] = [
+const VERSIONS: [(unreal_asset::engine_version::EngineVersion, &str); 34] = [
     (UNKNOWN, "unknown"),
     (VER_UE4_OLDEST_LOADABLE_PACKAGE, "oldest"),
     (VER_UE4_0, "4.0"),
