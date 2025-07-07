@@ -299,4 +299,5 @@ const VERSIONS: [(unreal_asset::engine_version::EngineVersion, &str); 33] = [
     (VER_UE5_0, "5.0"),
     (VER_UE5_1, "5.1"),
     (VER_UE5_2, "5.2"),
+    (VER_UE5_3, "5.3"),
 ];
